@@ -17,6 +17,6 @@
 
 <div>
   
-  ![github stats](https://github-readme-stats.vercel.app/api?username=danmin20)
+  ![github stats](https://github-readme-stats.vercel.app/api?username=seehun)
 
 </div>
