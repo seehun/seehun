@@ -4,7 +4,7 @@
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
   
 
-**경희대 재학중**  <sub><sup>컴퓨터 공학과 재학(2018.03 ~ now)</sup></sub>  
+**경희대 졸업**  <sub><sup>컴퓨터 공학과 재학(2018.03 ~ 2024.02)</sup></sub>  
 
 ---
 
