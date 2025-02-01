@@ -19,6 +19,7 @@
 **UMC** <sub><sup> FrontEnd 파트 과정 수료, final project에서 web 파트장 수행 ( photolancer ) (2023.03 ~ 2023.08)</sup></sub>  
 **devCourse** <sub><sup> FrontEnd 교육 수료, final project에서 팀장 수행 ( 무료급식소 ) (2023.12 ~ 2024.05)</sup></sub>  
 **CMC 15기** <sub><sup> Web, 프리뷰인슈 앱 런칭 (2024.05 ~ 2024.08)</sup></sub>  
+**현대 HDS** <sub><sup> 현대 해상 SM, 자동차/일반보험센터 일반보험팀 근무중 (2025.01 ~ )</sup></sub>  
   
 <br>
 
